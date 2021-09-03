@@ -1,10 +1,10 @@
 # Site settings
-title: Your Title Here
+title: Impresa Edile F.lli Botter
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
-lang: en_US
+author: Copyright &copy; 2019 - Impresa Edile F.lli Botter
+lang: it_IT
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
