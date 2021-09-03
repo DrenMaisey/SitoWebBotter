@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Impresa Edile Fratelli Botter
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Da XX anni al tuo servizio per il meglio dell'edilizia
   action: # action button is optional
-    label: Find Out More
+    label: Scopri di più
     url: '#about'
 
 
@@ -14,10 +13,10 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Facciamo quello che ti serve per le tue costruzioni edilizie
+    text: Progettiamo, ristrutturiamo, costruiamo e miglioriamo la tua casa!
     actions:
-      - title: Get Started!
+      - title: Iniziamo
         url: '#page-top'
         class: btn-light
 
@@ -26,18 +25,18 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Progettazione
+        text: Progettiamo la tua casa da 0!
         icon: fa-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: Costruzione
+        text: Costruiamo la tua casa
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Ristrutturazione
+        text: Ristrutturiamo la tua casa vecchia
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: Amiamo
+        text: Facciamo il nostro lavoro con amore da anni
         icon: fa-heart
       - title: Other 1
         text: Some not-so long text here.
@@ -140,20 +139,15 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Contattateci
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Chiamaci o mandaci una mail, ti ricontatteremo prima possibile!
     actions:
     - title: +1 (202) 555-014
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
       url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: '#'
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
