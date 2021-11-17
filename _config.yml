@@ -3,7 +3,7 @@ title: Impresa Edile F.lli Botter
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Impresa Edile F.lli Botter
+author: Copyright &copy; 2019 - Impresa Edile F.lli Botter - <a target="_blank" href="https://icons8.com/icon/7uem77YJo0u8/crane">Crane</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>  
 lang: it_IT
 
 # Build settings
