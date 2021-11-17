@@ -12,6 +12,4 @@ header:
 - title: Storia
   url: /#timeline
 - title: Contatti
-  url: ./_includes/contacts.html
-- title: Links
-  url: /links
+  url: /#about
