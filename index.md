@@ -118,7 +118,7 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: Un po' di storia...
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
