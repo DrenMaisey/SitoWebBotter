@@ -38,12 +38,12 @@ sections:
       - title: Amiamo
         text: Facciamo il nostro lavoro con amore da anni
         icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - #title: Other 1
+         #text: Some not-so long text here.
+        #icon: fa-heart
+      - #title: Other 2
+        #text: Some not-so long text here.
+        #icon: fa-heart
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -51,7 +51,7 @@ sections:
     #background_style: bg-dark
     projects:
       - title: Project 1
-        text: This is a very short project description.
+        text: Ristrutturiamo
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
