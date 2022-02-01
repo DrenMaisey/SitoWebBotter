@@ -27,14 +27,14 @@ sections:
     services:
       - title: Progettazione
         text: Progettiamo la tua casa da 0!
-        icon: fa-gem text-info
+        icon: fa fa-pencil
         #url: https://startbootstrap.com/
       - title: Costruzione
         text: Costruiamo la tua casa
         icon: fa fa-home
       - title: Ristrutturazione
         text: Ristrutturiamo la tua casa vecchia
-        icon: fa-laptop-code
+        icon: fa fa-undo
       - title: Amiamo
         text: Facciamo il nostro lavoro con amore da anni
         icon: fa-heart
