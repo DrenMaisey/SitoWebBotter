@@ -1,9 +1,9 @@
 # Site settings
-title: Impresa Edile F.lli Botter
+title: Impresa Edile Botter F.lli 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Impresa Edile F.lli Botter
+author: Copyright &copy; 2019 - Impresa Edile Botter F.lli 
 lang: it_IT
 
 # Build settings
