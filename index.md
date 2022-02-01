@@ -23,7 +23,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Al tuo servizio
     services:
       - title: Progettazione
         text: Progettiamo la tua casa da 0!
