@@ -50,8 +50,8 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: Ristrutturiamo
+      - title: Ristrutturazione
+        text: Questo è un esempio di ristrutturazione
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
