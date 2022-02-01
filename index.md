@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Impresa Edile Fratelli Botter
+  title: Impresa Edile Botter Fratelli 
   text: >
     Da XX anni al tuo servizio per il meglio dell'edilizia
   action: # action button is optional
