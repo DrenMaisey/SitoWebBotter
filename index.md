@@ -31,7 +31,7 @@ sections:
         #url: https://startbootstrap.com/
       - title: Costruzione
         text: Costruiamo la tua casa
-        icon: fa-paper-plane
+        icon: fa fa-home
       - title: Ristrutturazione
         text: Ristrutturiamo la tua casa vecchia
         icon: fa-laptop-code
@@ -143,11 +143,11 @@ sections:
     text: >-
       Chiamaci o mandaci una mail, ti ricontatteremo prima possibile!
     actions:
-    - title: +39 0434 6400 
+    - title: +39 0434 648135 
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:impresabotter.snc@gmail.com
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
