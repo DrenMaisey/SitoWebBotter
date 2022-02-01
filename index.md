@@ -27,7 +27,7 @@ sections:
     services:
       - title: Progettazione
         text: Progettiamo la tua casa da 0!
-        icon: fa fa-pencil-square-o
+        icon: fa fa-desktop
         #url: https://startbootstrap.com/
       - title: Costruzione
         text: Costruiamo la tua casa
