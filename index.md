@@ -17,12 +17,12 @@ sections:
     text: Progettiamo, ristrutturiamo, costruiamo e miglioriamo la tua casa!
     actions:
       - title: Iniziamo
-        url: '#page-top'
+        url: '#page-down'
         class: btn-light
 
   - type: services.html
     section_id: services
-    background_style: bg-info
+    #background_style: bg-info
     title: Al tuo servizio
     services:
       - title: Progettazione
@@ -87,7 +87,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: La nostra squadra!
     background_style: bg-info text-white
     members:
       - title: Christina M. Aponte
