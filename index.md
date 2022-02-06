@@ -140,7 +140,7 @@ sections:
     section_id: contacts
     title: Contattateci
     text: >-
-      Ci trovate in via Bosco Mantova 54 a Fagnigola di Azzano Decimo 33082 (PN)
+      Ci trovate in via Bosco Mantova 54 a Fagnigola di Azzano Decimo 33082 (PN)       
       P.I. e C.F. XXXXX
       
 
