@@ -57,24 +57,24 @@ sections:
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
+      - title: Ristrutturazione
+        text: Questo è un esempio di ristrutturazione.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+      - title: Costruzione
+        text: Questo è un esempio di costruzione.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+      - title: Costruzione
+        text: Questo è un esempio di costruzione.
         icon: 4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+      - title: Costruzione
+        text: Questo è un esempio di costruzione.
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: Ristrutturazione
+        text: Questo è un esempio di ristrutturazione.
         icon: 6.jpg
         url: '#'
 
