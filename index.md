@@ -140,7 +140,10 @@ sections:
     section_id: contacts
     title: Contattateci
     text: >-
-      Chiamaci o mandaci una mail, ti ricontatteremo prima possibile!
+      Ci trovate in via Bosco Mantova 54 a Fagnigola di Azzano Decimo 33082 (PN)
+      P.I. e C.F. XXXXX
+      
+
     actions:
     - title: +39 0434 648135 
       icon: fa-phone
