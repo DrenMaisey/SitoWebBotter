@@ -17,7 +17,7 @@ sections:
     text: Progettiamo, ristrutturiamo, costruiamo e miglioriamo la tua casa!
     actions:
       - title: Iniziamo
-        url: '#page-down'
+        url: '#services'
         class: btn-light
 
   - type: services.html
