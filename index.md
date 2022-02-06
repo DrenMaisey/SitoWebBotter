@@ -22,13 +22,12 @@ sections:
 
   - type: services.html
     section_id: services
-    #background_style: bg-info
+    background_style: bg-info
     title: Al tuo servizio
     services:
       - title: Progettazione
         text: Progettiamo la tua casa da 0!
         icon: fa fa-desktop
-        #url: https://startbootstrap.com/
       - title: Costruzione
         text: Costruiamo la tua casa
         icon: fa fa-home

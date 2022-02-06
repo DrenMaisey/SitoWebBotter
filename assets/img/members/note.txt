@@ -1,1 +1,2 @@
 file 1024px1024p
+mogrify -resize 1024X1024! [nome file].jpg
