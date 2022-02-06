@@ -1,1 +1,2 @@
 H650p L350p
+mogrify -resize 650X350! [nome del file].jpg
