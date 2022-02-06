@@ -90,28 +90,28 @@ sections:
     title: La nostra squadra!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
+      - title: Walter Botter
+        text: Titolare
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
+      - title: Denis Botter
+        text: Titolare
         image: assets/img/members/person2.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
+      - title: Tiziano Botter
+        text: Titolare
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
+      - title: Giuseppe Botter
+        text: Geometra di cantiere
         image: assets/img/members/person5.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
+      - title: Cesare
+        text: Impiegato
         image: assets/img/members/person6.jpg
         url: '#'
-      - title: Ella P. Walter
-        text: PR.
+      - title: Matteo Botter
+        text: Tuttofare!
         image: assets/img/members/person7.jpg
         url: '#'
 
